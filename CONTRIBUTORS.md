@@ -11,3 +11,4 @@
 | theabro           | Nathan Luke Abraham | NCAS & University of Cambridge | 2026-03-19 |
 | yaswant           | Yaswant Pradhan     | Met Office                     | 2026-07-17 |
 | alanjhewitt       | Alan J Hewitt       | Met Office                     | 2026-07-12 |
+| ajones244         | Anthony Jones       | Met Office                     | 2026-11-23 |
